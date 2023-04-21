@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Users App</string>
+    <string name="users">Users</string>
+    <string name="edit_user">Create User</string>
+    <string name="enter_username">Enter Username<font color="#C81305"><b> *</b></font></string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_designation">Enter Designation<font color="#C81305"><b> *</b></font></string>
+    <string name="enter_doj">Enter DOJ</string>
+    <string name="please_enter_username">Please Enter Username</string>
+    <string name="please_enter_designation">Please Enter Designation</string>
+    <string name="select_option">Select Option</string>
+    <string name="location_permission_granted">Location Permission Granted</string>
+    <string name="please_add_profile_picture">Please add profile picture.</string>
+    <string name="user_created_successfully">User Created Successfully!</string>
+    <string name="list_empty_add_some_users">Empty List! <font color="#1A38E3"><b> Add Some Users...</b></font></string>
+</resources>
